@@ -1,0 +1,88 @@
+@black : #747474;
+
+*{
+            
+}
+
+body{        
+    font-family: 'Roboto';    
+    padding: 0;
+    margin: 0;
+}
+
+.blue{
+    color: #4FABFF;
+}
+
+.blue2{
+    color: #92C5F3;
+}
+
+.black{
+    color: #747474;
+}
+
+.black2{
+    color: #BFBFBF;
+}
+
+.black3{
+    color: #c4c4c4;
+}
+
+.font-thin{
+    font-weight: 100;
+}
+
+.font-light{
+    font-weight: 300;
+}
+
+.font-regular{
+    font-weight: 400;
+}
+
+.font-medium{
+    font-weight: 500;
+}
+
+.font-bold{
+    font-weight: 700;
+}
+
+.font-13{
+    font-size: 13px;
+}
+
+.font-14{
+    font-size: 14px;
+}
+
+.font-16{
+    font-size: 16px;
+}
+
+.font-18{
+    font-size: 18px;
+}
+
+.font-24{
+    font-size: 24px;
+}
+
+.font-36{
+    font-size: 36px;
+}
+
+.font-64{
+    font-size: 64px;
+}
+
+.header-text{
+        
+}
+
+.skill-box {
+        
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
