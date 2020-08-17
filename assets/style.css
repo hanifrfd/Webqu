@@ -1,10 +1,8 @@
-@black : #747474;
-
 *{
-            
+    max-width:100%;
 }
 
-body{        
+body{            
     font-family: 'Roboto';    
     padding: 0;
     margin: 0;
@@ -78,11 +76,59 @@ body{
     font-size: 64px;
 }
 
-.header-text{
-        
+.skill-box {
+    border-color: white;    
+    min-height: 100%;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1);
 }
 
-.skill-box {
-        
-    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+.middle{
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
 }
+
+@media (max-width: 768px) {        
+    .font-16{
+        font-size: 14px;
+    }
+    .font-18{
+        font-size: 16px;
+    }
+    .font-24{
+        font-size: 20px;
+    }
+    .font-64{
+        font-size: 32px;
+    }
+
+    .middle{
+        margin-left: 1 rem;
+        margin-right: 1 rem;        
+    }
+}
+
+@media (max-width: 440px) {    
+    .font-16, .font-13{
+        font-size: 9px;
+    }
+    .font-18{
+        font-size: 14px;
+    }
+    .font-24{
+        font-size: 18px;
+    }
+    .font-64{
+        font-size: 24px;
+    }
+
+    .skill-box{
+        height: 166px;
+    }
+    .middle{
+        margin-left: 0;
+        margin-right: 0;
+        margin-top: 1.5rem;
+        margin-bottom: 1.5rem;
+    }
+}
+
