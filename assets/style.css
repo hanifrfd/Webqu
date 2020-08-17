@@ -1,3 +1,7 @@
+:root {
+    --light: #f55fff;
+}
+
 *{
     max-width:100%;
 }
@@ -75,6 +79,21 @@ body{
 .font-64{
     font-size: 64px;
 }
+
+.navbar-nav {        
+    color: #C44454;
+}
+
+.navbar-nav .nav-item a.nav-link{    
+    color: #C4C4C4;
+    font-weight: 500;
+    font-size: 14px;
+}
+/* #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
+
+} */
+
+
 
 .skill-box {
     border-color: white;    
