@@ -106,6 +106,20 @@ body{
     margin-right: 0.5rem;
 }
 
+#portfolio-data{
+    min-height: 800px;
+}
+
+@media (min-width: 900px) {
+    
+    .port-img{
+        min-width: 100%;
+        min-height: 300px;
+        max-height: 300px;
+    }
+
+}
+
 @media (max-width: 768px) {        
     .font-16{
         font-size: 14px;
@@ -124,6 +138,7 @@ body{
         margin-left: 1 rem;
         margin-right: 1 rem;        
     }
+    
 }
 
 @media (max-width: 440px) {    
@@ -151,3 +166,15 @@ body{
     }
 }
 
+.menu-link:hover{
+    cursor: pointer;
+    color: #747474;
+}
+
+.menu-link.blue:hover{
+    color: #4FABFF;
+}
+
+.portfolio-items:hover{    
+    cursor: pointer;
+}
