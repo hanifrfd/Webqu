@@ -32,7 +32,7 @@ export const Data =
                 "id" : 4,
                 "title" : "Webqu - Portfolio Website",
                 "image" : "./assets/img/apps/Webqu.jpg",
-                "tools" : "HTML,CSS,Javascript,ReactJS",
+                "tools" : "HTML,CSS,Javascript,Bootstrap CSS",
                 "category" : "apps",
                 "description" : "Portfolio Website untuk menyimpan portfolio dari Hanif Rafidi",
                 "url" : "https/webqu.netlify.com"
