@@ -1,5 +1,5 @@
 [[headers]]
   # Define which paths this specific [[headers]] block will cover.
-  for = "/js/"
+  for = "/js"
     [headers.values]
-    Access-Control-Allow-Origin = "*"
+    Access-Control-Allow-Origin = "/js"
