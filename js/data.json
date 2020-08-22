@@ -1,0 +1,40 @@
+{
+    "data": [           
+            {
+                "id" : 1,
+                "title" : "Sistem Informasi Pengajuan Perbaikan Sarana TI",
+                "image" : "/assets/img/SIPPTI.jpg",
+                "tools" : "HTML,CSS,Javascript,PHP,MYSQL,CodeIgniter",
+                "category" : "apps",
+                "description" : "sistem informasi untuk membantu proses pengawasan data pengajuan perbaikan sarana TI di lingkungan Rumah Sakit Saiful Anwar Malang",
+                "url" : "https/github.com/hanifrfd/SIPPTI"    
+            },
+            {
+                "id" : 2,
+                "title" : "Sistem Informasi Flora dan Fauna TNTBTS",
+                "image" : "/assets/img/TNTBS.jpg",
+                "tools" : "HTML,CSS,Javascript,PHP,MYSQL,CodeIgniter",
+                "category" : "apps",
+                "description" : "Sistem informasi pelaporan data flora dan fauna di Taman Nasional Bromo Tengger Semeru",
+                "url" : "https/github.com/hanifrfd/SistemInformasiFloraDanFauna"    
+            },
+            {
+                "id" : 3,
+                "title" : "MovieBot",
+                "image" : "/assets/img/MovieBot.jpg",
+                "tools" : "HTML,CSS,Javascript,ReactJS",
+                "category" : "apps",
+                "description" : "Web untuk berbagi informasi seputar film, menyajikan informasi film yang saat ini dan akan tayang. Dan bisa mencari film-film yang sudah ditayangkan ",
+                "url" : "https/moviebot.netlify.com"    
+            },
+            {
+                "id" : 4,
+                "title" : "Webqu - Portfolio Website",
+                "image" : "/assets/img/Webqu.jpg",
+                "tools" : "HTML,CSS,Javascript,ReactJS",
+                "category" : "apps",
+                "description" : "Portfolio Website untuk menyimpan portfolio dari Hanif Rafidi",
+                "url" : "https/webqu.netlify.com"
+           }
+       ]
+}
