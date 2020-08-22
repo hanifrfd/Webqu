@@ -31,7 +31,7 @@ export const Data =
             {
                 "id" : 4,
                 "title" : "Webqu - Portfolio Website",
-                "image" : "./assets/img/apps/webqu.jpg",
+                "image" : "./assets/img/apps/Webqu.jpg",
                 "tools" : "HTML,CSS,Javascript,ReactJS",
                 "category" : "apps",
                 "description" : "Portfolio Website untuk menyimpan portfolio dari Hanif Rafidi",
