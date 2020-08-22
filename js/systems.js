@@ -52,10 +52,10 @@ function getData() {
     if(portfolio_filter != ""){
         Data[portfolio_filter].forEach(portfolios => {
             if(portfolios.image != ''){
-                const html = `<div class="portfolio-items col-md-4 col-sm-2 my-3 p-0"> <img src="${portfolios.image}" class="img-fluid port-img" alt="Responsive image"> <div class="caption my-2"> <p class="font-16 font-medium text-center black pt-3">${portfolios.title}</p> <p class="font-15 font-thin text-center black">${portfolios.tools}</p> </div> </div>`;
+                const html = `<div class="portfolio-items col-md-4 col-sm-4 my-3 p-0"> <img src="${portfolios.image}" class="img-fluid port-img" alt="Responsive image"> <div class="caption my-2"> <p class="font-16 font-medium text-center black pt-3">${portfolios.title}</p> <p class="font-15 font-thin text-center black">${portfolios.tools}</p> </div> </div>`;
                 $('#portfolio-data').append(html);
             }else{
-                const html = `<div class="portfolio-items col-md-4 col-sm-2 my-3 p-0"> ${portfolios.embed} <p class="font-16 font-medium text-center black pt-3">${portfolios.title}</p> <p class="font-15 font-thin text-center black">${portfolios.tools}</p> </div> </div>`;
+                const html = `<div class="portfolio-items col-md-4 col-sm-4 my-3 p-0"> ${portfolios.embed} <p class="font-16 font-medium text-center black pt-3">${portfolios.title}</p> <p class="font-15 font-thin text-center black">${portfolios.tools}</p> </div> </div>`;
                 $('#portfolio-data').append(html);
             }
         });
@@ -63,10 +63,10 @@ function getData() {
         for(var key in Data){            
             Data[key].forEach(portfolios => {
                 if(portfolios.image != ''){
-                    const html = `<div class="portfolio-items col-md-4 col-sm-2 my-3 p-0"> <img src="${portfolios.image}" class="img-fluid port-img" alt="Responsive image"> <div class="caption my-2"> <p class="font-16 font-medium text-center black pt-3">${portfolios.title}</p> <p class="font-15 font-thin text-center black">${portfolios.tools}</p> </div> </div>`;
+                    const html = `<div class="portfolio-items col-md-4 col-sm-4 my-3 p-0"> <img src="${portfolios.image}" class="img-fluid port-img" alt="Responsive image"> <div class="caption my-2"> <p class="font-16 font-medium text-center black pt-3">${portfolios.title}</p> <p class="font-15 font-thin text-center black">${portfolios.tools}</p> </div> </div>`;
                     $('#portfolio-data').append(html);
                 }else{
-                    const html = `<div class="portfolio-items col-md-4 col-sm-2 my-3 p-0"> ${portfolios.embed} <p class="font-16 font-medium text-center black pt-3">${portfolios.title}</p> <p class="font-15 font-thin text-center black">${portfolios.tools}</p> </div> </div>`;
+                    const html = `<div class="portfolio-items col-md-4 col-sm-4 my-3 p-0"> ${portfolios.embed} <p class="font-16 font-medium text-center black pt-3">${portfolios.title}</p> <p class="font-15 font-thin text-center black">${portfolios.tools}</p> </div> </div>`;
                     $('#portfolio-data').append(html);
                 }
             });

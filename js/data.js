@@ -111,7 +111,7 @@ export const Data =
             "url" : "https/github.com/hanifrfd/SIPPTI",    
             "tools" : "Adobe Premiere Pro",
             "category" : "video",
-            "embed" : '<iframe width="560" height="315" src="https://www.youtube.com/embed/vuc5th1mpW0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'                         
+            "embed" : '<iframe class="port-img embed-responsive-item" src="https://www.youtube.com/embed/vuc5th1mpW0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         },
         {
             "id" : 2,
@@ -120,7 +120,7 @@ export const Data =
             "url" : "https/github.com/hanifrfd/SIPPTI",    
             "tools" : "Adobe After Effect, Adobe Premiere Pro",
             "category" : "video",
-            "embed" : '<iframe width="560" height="315" src="https://www.youtube.com/embed/6ZgVxmyJolw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+            "embed" : '<iframe class="port-img embed-responsive-item" src="https://www.youtube.com/embed/6ZgVxmyJolw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         },
         {
             "id" : 3,
@@ -129,7 +129,7 @@ export const Data =
             "url" : "https/github.com/hanifrfd/SIPPTI",    
             "tools" : "Adobe After Effects, Adobe Premiere Pro",
             "category" : "video",
-            "embed" : '<iframe width="560" height="315" src="https://www.youtube.com/embed/5yJxfTt_MEc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+            "embed" : '<iframe class="port-img embed-responsive-item" src="https://www.youtube.com/embed/5yJxfTt_MEc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         },
            ],
 }
