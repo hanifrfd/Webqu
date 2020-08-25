@@ -6,10 +6,13 @@ body {
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
+<<<<<<< HEAD
 html{
   scroll-behavior: smooth;
 }
 
+=======
+>>>>>>> 44290d18c6d7b11a41c438298e67b8231b7cd8e2
 a {
   color: inherit;
   text-decoration: none;
@@ -37,6 +40,7 @@ a {
 
 .black3{
   color: #c4c4c4;
+<<<<<<< HEAD
 }
 
 .font-thin{
@@ -85,4 +89,6 @@ a {
 
 .font-64{
   font-size: 64px;
+=======
+>>>>>>> 44290d18c6d7b11a41c438298e67b8231b7cd8e2
 }
