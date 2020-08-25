@@ -18,11 +18,7 @@ export default function Home() {
         <div id="portfolio">
           <Portfolio></Portfolio>
         </div>
-<<<<<<< HEAD
-      </main>    
-=======
       </main>
->>>>>>> 44290d18c6d7b11a41c438298e67b8231b7cd8e2
       <Footer></Footer>
     </>
   )
