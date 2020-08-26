@@ -1,0 +1,1 @@
+_N_E=(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[10],{bgSJ:function(_,n,w){(window.__NEXT_P=window.__NEXT_P||[]).push(["/layout/Header",function(){return w("yVsg")}])}},[["bgSJ",0,1,2,3]]]);
