@@ -32,7 +32,7 @@ const Data =
                 "id" : 4,
                 "title" : "Webqu - Portfolio Website",
                 "image" : "img/apps/Webqu.jpg",
-                "tools" : "HTML,CSS,Javascript,ReactJS",
+                "tools" : "HTML,CSS,Javascript,ReactJS, NextJs",
                 "category" : "apps",
                 "description" : "Portfolio Website untuk menyimpan portfolio dari Hanif Rafidi",
                 "url" : "https/webqu.netlify.com"
